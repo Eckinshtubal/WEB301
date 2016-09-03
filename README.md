@@ -12,7 +12,9 @@ This repository will serve as the starting point for each week, providing:
 
 ## Class resources
 
+These are the resources we will be using in class for reference or as a starting point.
 
+[View resources](/Resources)
 
 ## Jump to a week
 
