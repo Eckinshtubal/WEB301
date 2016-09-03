@@ -12,7 +12,7 @@ This repository will serve as the starting point for each week, providing:
 
 ## Jump to a week
 
-1. (Week #1)[/Week_01]
+1. [Week #1](/Week_01)
 2.
 3.
 4.
