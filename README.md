@@ -13,16 +13,16 @@ This repository will serve as the starting point for each week, providing:
 ## Jump to a week
 
 1. [Week #1](/Week_01)
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
+2. [Week #2](/Week_02)
+3. [Week #3](/Week_03)
+4. [Week #4](/Week_04)
+5. [Week #5](/Week_05)
+6. [Week #6](/Week_06)
+7. [Week #7](/Week_07)
+8. [Week #8](/Week_08)
+9. [Week #9](/Week_09)
+10. [Week #10](/Week_10)
+11. [Week #11](/Week_11)
+12. [Week #12](/Week_12)
+13. [Week #13](/Week_03)
+14. [Week #14](/Week_14)
