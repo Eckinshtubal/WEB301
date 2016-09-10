@@ -1,0 +1,11 @@
+@media (max-width: 767px) {
+  body {
+    border: 3px solid blue;
+  }
+}
+
+@media (min-width: 768px) {
+  body {
+    border: 3px solid red;
+  }
+}
