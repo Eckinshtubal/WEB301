@@ -32,6 +32,7 @@ To run the command:
 
 ## Links to resources and materials
 
+* [Why Sass?](http://alistapart.com/article/why-sass)
 * [Sass home page](http://sass-lang.com/)
 * [Sass basics](http://sass-lang.com/guide)
 * [Installing Sass](http://sass-lang.com/install)
