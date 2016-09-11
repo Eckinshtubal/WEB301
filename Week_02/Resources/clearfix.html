@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Mobile template</title>
+	<link rel="stylesheet" href="styles/sanitize.css">
+
+  <style>
+
+    .parent {
+      border: 2px solid red;
+    }
+
+    .left {
+      float: left;
+    }
+
+    .right {
+      float: right;
+    }
+
+    .clearfix:after {
+      visibility: hidden;
+    	display: block;
+    	content: "";
+    	clear: both;
+    	height: 0;
+    }
+
+  </style>
+
+</head>
+
+<body id="home">
+
+  <div class="parent">
+    <div class="left">
+      I'm going to float to the left.
+    </div>
+    <div class="right">
+      I'm going to float to the right.
+    </div>
+  </div>
+
+  <p>I should sit below both floated items.</p>
+
+</body>
+</html>

@@ -1,0 +1,18 @@
+@media (max-width: 767px) {
+  body {
+    border: 10px solid red; } }
+@media (min-width: 768px) {
+  body {
+    border: 10px solid blue; } }
+body {
+  color: #444; }
+
+.container {
+  padding: 0 1rem;
+  max-width: 960px;
+  margin: 0 auto; }
+
+h1 a {
+  color: #ff3300; }
+
+/*# sourceMappingURL=main.css.map */
