@@ -40,6 +40,7 @@ To run the command:
 
 ## Media queries
 
-
+* [Media queries primer](http://unmatchedstyle.com/news/working-with-media-queries-and-min-width.php)
+* [Tips and tricks with media queries](https://css-tricks.com/logic-in-media-queries/)
 * [Overview of available media queries](http://cssmediaqueries.com/)
 * [Some examples of sites built using media queries](http://mediaqueri.es/)
