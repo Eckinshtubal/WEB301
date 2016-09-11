@@ -1,4 +1,4 @@
-# Week #1 Resources
+# Week #2 Resources
 
 ## Sass & media queries
 
