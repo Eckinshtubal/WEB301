@@ -2,9 +2,7 @@
 
 ## Sass & media queries
 
-## Sass
-
-To compile a Sass file down to a CSS file:
+### To compile a Sass file down to a CSS file:
 
 1. Open terminal application from the dock.
 2. Change directory to the folder where your sass file is located:
