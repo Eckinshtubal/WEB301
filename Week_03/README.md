@@ -1,5 +1,27 @@
 # Week #3
 
+## The viewport meta tag
+
+It's important to remember when using media queries, you must add a `<meta>` tag to the head of your HTML document.
+
+For basic usage the tag can simply be:
+
+```
+<meta name="viewport" content="width=device-width">
+```
+
+However, you can also set an initial size:
+
+```
+<meta name="viewport" content="width=device-width, initial-scale=1">
+```
+
+And you might want to specify whether or not the user can zoom in or not:
+
+```
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+```
+
 ## Media Queries
 
 The most basic media query specifies a minimum or maximum size:
@@ -41,7 +63,7 @@ Media queries can also target devices and media by other means. For example, you
 }
 ```
 
-IMPORTANT: Stacking and combining media queries can become cumbersome quickly! Think about what you need to achieve and plan things out a little first.
+**IMPORTANT:** Stacking and combining media queries can become cumbersome quickly! Think about what you need to achieve and plan things out a little first.
 
 The most complex media query I could find online:
 
@@ -138,9 +160,11 @@ This allows for simple media query "shortcuts" like this:
 
 # Links to resources and materials
 
+* [The responsive meta tag](https://css-tricks.com/snippets/html/responsive-meta-tag/)
 * [Media queries cheat sheet](http://mac-blog.org.ua/css-3-media-queries-cheat-sheet/)
 * [Logic in media queries](https://css-tricks.com/logic-in-media-queries/)
 * [A gallery of sites using media queries](http://mediaqueri.es/)
+* [An image showing the number of possible screen sizes](https://gigaom2.files.wordpress.com/2014/01/android-screen-sizes.jpg)
 * [Sass Guide covering inheritance/extend and mixins](http://sass-lang.com/guide)
 * [Sass extend](https://css-tricks.com/the-extend-concept/)
 * [Example: using Sass to create CSS triangles](https://www.sitepoint.com/sass-mixin-css-triangles/)

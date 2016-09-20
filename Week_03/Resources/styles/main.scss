@@ -1,0 +1,18 @@
+@import 'includes/variables';
+@import 'includes/media-queries';
+
+body {
+  color: $copy-colour;
+}
+
+.container {
+  padding: 0 1rem;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+h1 {
+  a {
+    color: $primary-colour;
+  }
+}

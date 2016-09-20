@@ -1,0 +1,27 @@
+// targets screen width under 767px
+
+@media (max-width: 767px) {
+  body {
+    border: 10px solid red;
+  }
+}
+
+// targets screen width over 768
+
+@media (min-width: 768px) {
+  body {
+    border: 10px solid blue;
+  }
+}
+
+// targets screen width over 1200px
+
+@media (min-width: 992px) {
+
+}
+
+// targets screen width over 1200px
+
+@media (min-width: 1200px) {
+
+}
