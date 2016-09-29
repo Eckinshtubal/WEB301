@@ -40,3 +40,12 @@ If you see an error message, Node was not correctly installed. If you see a list
 A browser window should open displaying the HTML file. You can test that everything worked by making changes - **IMPORTANT**: make your changes to the Sass and JavaScript files in the `src` folder, **NOT** the files in the `app` folder - this is where files are stored after they have been processed, any changes you make here will be wiped out.
 
 Email me if you have any questions!
+
+# Links to resources and materials
+
+* [All about floats](https://css-tricks.com/all-about-floats/)
+* [CSS Positioning](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
+* [Learn CSS layout](http://learnlayout.com/)
+* [What is clearfix?](http://learnlayout.com/clearfix.html)
+* [More about clearfix](https://css-tricks.com/snippets/css/clear-fix/)
+* [CSS grid](https://css-tricks.com/dont-overthink-it-grids/)
