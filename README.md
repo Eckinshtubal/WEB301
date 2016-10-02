@@ -33,15 +33,6 @@ These are the resources we will be using in class for reference or as a starting
 3. [Week #3](/Week_03)
 4. [Week #4](/Week_04)
 5. [Week #5](/Week_05)
-6. [Week #6](/Week_06)
-7. [Week #7](/Week_07)
-8. [Week #8](/Week_08)
-9. [Week #9](/Week_09)
-10. [Week #10](/Week_10)
-11. [Week #11](/Week_11)
-12. [Week #12](/Week_12)
-13. [Week #13](/Week_03)
-14. [Week #14](/Week_14)
 
 ## Some good overall resources
 
