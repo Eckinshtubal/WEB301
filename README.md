@@ -2,11 +2,13 @@
 
 ## Instructor: Toby Leftly
 
-This repository will serve as the starting point for each week, providing:
+The repository has been restructured to make it clearer where you can find files and resources.
 
-* Resources used in class, such as code samples and files
-* Links to reading and educational materials
-* Lesson plans and assignments
+## Resources
+
+You can find the boilerplate we use week-to-week in the [Resources](Resources/) folder. This folder contains both the Sass boilerplate and the Gulp workflow. Either workflow is suitable for working with Sass in class.
+
+## Class notes
 
 **Important**: Due to the dynamic, fast-moving nature of the topics covered in this class, there is no text book for this class. Instead, each topic will be covered in class, with additional reading materials provided in this repository.
 
