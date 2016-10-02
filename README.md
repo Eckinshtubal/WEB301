@@ -8,6 +8,10 @@ The repository has been restructured to make it clearer where you can find files
 
 You can find the boilerplate we use week-to-week in the [Resources](Resources/) folder. This folder contains both the Sass boilerplate and the Gulp workflow. Either workflow is suitable for working with Sass in class.
 
+[#### Download the Sass Workflow ZIP folder](Resources/sass-workflow.zip)
+
+[#### Download the Gulp Workflow ZIP folder](Resources/gulp-workflow.zip)
+
 ## Class notes
 
 **Important**: Due to the dynamic, fast-moving nature of the topics covered in this class, there is no text book for this class. Instead, each topic will be covered in class, with additional reading materials provided in this repository.
