@@ -70,6 +70,8 @@ This is what your final buttons might look like:
 
 # Links to resources and materials
 
+* [Pseudo classes](https://css-tricks.com/pseudo-class-selectors/)
+* [Pseudo classes cheat sheet](http://www.cheetyr.com/css-selectors#Pseudoclasses)
 * [Why and how to use icon fonts](http://vanseodesign.com/web-design/icon-fonts/)
 * [Icon font style generator](https://css-tricks.com/examples/IconFont/)
 * [@FontFace](https://css-tricks.com/snippets/css/using-font-face/)
