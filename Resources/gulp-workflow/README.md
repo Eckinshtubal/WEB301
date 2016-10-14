@@ -1,3 +1,5 @@
+Download the boilerplate by clicking [this link](../gulp-workflow.zip)
+
 This boilerplate provides a basic starting point for front end web development.
 
 Included software:
