@@ -35,3 +35,11 @@ This CSS will center the image vertically within the DIV:
     transform: translateY(-50%);
 }
 ```
+
+# Links to resources and materials
+
+* [Bootstrap home page](http://getbootstrap.com/)
+* [Bootstrap cheat sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
+* [Another Bootstrap cheat sheet](http://www.brandx.net/support/websites/bootstrap/bootstrap-cheat-sheet.html)
+* [Bootstrap tips and tricks](https://scotch.io/bar-talk/bootstrap-3-tips-and-tricks-you-might-not-know)
+* 
