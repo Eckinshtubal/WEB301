@@ -1,5 +1,21 @@
 # Week #9
 
+## Introduction to final project
+
+The project will be submitted via BitBucket, a free online hosted Git service.
+
+###
+
+Create your account at:
+
+https://bitbucket.org/account/signup/
+
+Create a repository for your final project. We'll discuss in class how to access this repository on a computer.
+
+---
+
+## File paths exercise
+
 1. Download the [exercise.zip](exercise.zip) file.
 2. The folder is basically the Gulp Workflow folder we have been using, but with some changes. Install and get up and running as you have previously.
 3. There are 5 image files stored within the `app` folder.
