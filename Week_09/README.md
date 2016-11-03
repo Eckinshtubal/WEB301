@@ -2,13 +2,13 @@
 
 ## Introduction to final project
 
-The project will be submitted via BitBucket, a free online hosted Git service.
+The project will be submitted via GitHub, the free online hosted Git service.
 
 ###
 
 Create your account at:
 
-https://bitbucket.org/account/signup/
+https://github.com/
 
 Create a repository for your final project. We'll discuss in class how to access this repository on a computer.
 
